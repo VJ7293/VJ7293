@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vijay kumar 
+- 👋 Hi, I’m Vijay kumar  
 - 👀 I’m interested in ... coding and Mechatronics 
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... web development(FrontEnd)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vjkumar7293@gamil.com
 
