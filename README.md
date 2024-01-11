@@ -1,5 +1,7 @@
+ About Me 
 - 👋 Hi, I’m Vijay kumar  
-- 👀 I’m interested in ... coding and Mechatronics 
+- Currently working on fullstack Booking WebApp
+- Learning more about technologies that go into building Full Stack Applications.
 - 🌱 I’have 1 year experience  ... web development(FrontEnd)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vjkumar7293@gamil.com
