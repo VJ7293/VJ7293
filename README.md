@@ -8,9 +8,7 @@
 
 
 🛠 Tech Stack
-
 -💻   JavaScript | ES6 |
-
 -🌐   HTML | CSS | ReactJS | 
 
 -🔧   Git | Markdown
