@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vjkumar7293@gamil.com
 - 🛠 Tech Stack
--💻   JavaScript | ES6 |
--🌐   HTML | CSS | ReactJS | 
--🔧   Git | Markdown
+- 💻   JavaScript | ES6
+- 🌐   HTML | CSS | ReactJS |
+- 🔧   Git | Markdown
 
 
 
